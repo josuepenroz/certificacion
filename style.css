@@ -1,0 +1,109 @@
+body {
+    margin : 0;
+    padding: 0;
+    
+}
+.t {
+ color: #FD9800;
+}
+
+img {
+    height: 100px;
+}
+.barra {
+    display: flex;
+    
+}
+.email {
+    
+   
+    padding: 5px;
+}
+.menu {
+
+    margin-left: 100px;
+     display: flex;
+     align-items: center;
+     background-color: #F9CB9C;
+     margin-right: 100px;
+     padding: 20px;
+    text-align: center;
+     p {
+        color: white;
+     }
+   
+}
+.menu div {
+    flex: 1;
+} 
+.btn1 {
+    display: flex;
+}
+input {
+    margin-left: 800px;
+    width: 300px;
+    height: 25px;
+    margin-top: 30px;
+}
+.btn {
+    background-color: #FD9800;
+    height: 30px;
+    margin-top: 30px;
+    border: none;
+}
+
+.icono {
+    display: flex ;
+}
+.parteprincipal {
+    display: flex;
+    
+    .restaurant {
+        height: 400px;
+        width: 400px;
+    }
+}
+.portada {
+    padding: 19PX;
+    text-align: center;
+    display: flex;
+    background-color: #CCCCCC;
+    margin-left: 100px;
+    margin-top: 40px;
+    height: 400px;
+    width: 730px;
+}
+.mejor {
+    display: block;
+}
+h2 {
+    font-size: 39px;
+}
+strong {
+    font-size: 50px;
+}
+.d {
+    color: #FD9800;
+}
+a {
+    color: black;
+}
+.div-img {
+ margin-left: 100px;
+}
+.t-div-img {
+margin-left: 40px;
+}
+.recomendacion {
+    margin-left: 30px;
+   
+}   
+.img-1-tacos {
+   width: 300px;
+}
+.aumenta {
+    background-color: black;
+    margin-left: 150px;
+    color: white;
+    border-radius: 30px;
+}
